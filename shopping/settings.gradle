@@ -1,1 +1,0 @@
-include "shopping-api", "shopping-ear", "shopping-war", "shopping-core", "shopping-ejb", "shopping-ejb-client"
